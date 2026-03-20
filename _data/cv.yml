@@ -135,9 +135,9 @@ cv:
 
     Professional Services:
       - name: Associate Editor
-        summary: "Monthly Weather Review (MWR)"
+        details: "Monthly Weather Review (MWR)"
       - name: Reviewer
-        summary: "Journal of the Atmospheric Sciences (JAS), Geophysical Research Letters (GRL), Monthly Weather Review (MWR), Quarterly Journal of the Royal Meteorological Society (QJRMS), Meteorology and Atmospheric Physics (MAAP), EGUsphere"
+        details: "Journal of the Atmospheric Sciences (JAS), Geophysical Research Letters (GRL), Monthly Weather Review (MWR), Quarterly Journal of the Royal Meteorological Society (QJRMS), Meteorology and Atmospheric Physics (MAAP), EGUsphere"
 
     Interests:
       - name: Dynamics and theory of Tropical Cyclones (TCs) 

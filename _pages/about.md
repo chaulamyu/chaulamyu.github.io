@@ -28,13 +28,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div style="font-size: 1.10rem;">
+<p style="font-size: 1.10rem;">
 I’m Chau-Lam (Chris) Yu, a Research Scientist in the Department of Atmospheric and Environmental Sciences at the University at Albany, SUNY.
-</div>
+</p>
 
-<div style="font-size: 1.10rem;">
+<p style="font-size: 1.10rem;">
 My research interests cover a wide range of topics related to tropical cyclones (TCs), including theory of rapid intensification, air-sea interaction, TC-induced near-inertia waves (NIW), TC-shear interaction and secondary eyewall formation (SEF). My research uses a combination of fundamental theory, numerical modelling and machine learning approaches to understand the multiscale processes that drive TC intensification. 
-</div>
+</p>
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

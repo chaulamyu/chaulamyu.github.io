@@ -145,7 +145,7 @@ cv:
 
     Services:
       - name: Associate Editor
-        keyword: "Monthly Weather Review (MWR)"
+        keywords: "Monthly Weather Review (MWR)"
       - name: Reviewer
-        keyword: "Journal of the Atmospheric Sciences (JAS), Geophysical Research Letters (GRL), Monthly Weather Review (MWR), Quarterly Journal of the Royal Meteorological Society (QJRMS), Meteorology and Atmospheric Physics (MAAP), EGUsphere"
+        keywords: "Journal of the Atmospheric Sciences (JAS), Geophysical Research Letters (GRL), Monthly Weather Review (MWR), Quarterly Journal of the Royal Meteorological Society (QJRMS), Meteorology and Atmospheric Physics (MAAP), EGUsphere"
 

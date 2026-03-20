@@ -36,11 +36,11 @@ cv:
         end_date: 2013
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
+      - company: Department of Atmospheric and Environmental Sciences, SUNY Albany
+        position: Research Scientist
+        location: SUNY Albany, NY, USA
+        start_date: 2023/12
+        end_date: present
         summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
           - Relativity
@@ -73,35 +73,25 @@ cv:
         start_date: 1909
         end_date: 1911
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
 
     Awards:
       - title: Research Internal Award: UAlbany Inventor Recognition for First Invention Disclosures, Patent Applications, and Patents Awarded 
         date: 2025
         awarder: UAlbany 
 
-      - title: Student Poster Presentation Award: 34th Conference on Hurricanes and Tropical Meteorology 
+      - title: Student Poster Presentation Award - 34th Conference on Hurricanes and Tropical Meteorology 
         date: 2020
         awarder: American Meteorology Society 
 
-      - title: Most Outstanding Postgraduate Student in the Faculty of Science: University of Reading
+      - title: Most Outstanding Postgraduate Student in the Faculty of Science - University of Reading
         date: 2013
         awarder: University of Reading
 
-      - title: Professor C D Beling Memorial Prize in Physics: University of Hong Kong
+      - title: Professor C D Beling Memorial Prize in Physics - University of Hong Kong
         date: 2012
         awarder: The University of Hong Kong
 
-      - title: Dean’s Honors List: The University of Hong Kong
+      - title: Dean's Honors List - The University of Hong Kong
         date: 2012
         awarder: The University of Hong Kong
 

@@ -125,7 +125,6 @@ cv:
         releaseDate: 2023
         summary: This work examined the cause of the precession hiatus of a set of idealized experiments in the critical shear regime.
 
-
     Skills:
       - name: Physics
         level: Master
@@ -133,11 +132,18 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: Cantonese
         summary: "Native speaker"
-
+      - name: Mandarin
+        summary: "Native speaker"
       - name: English
         summary: "Fluent"
+
+    Professional Services:
+      - name: Associate Editor
+        summary: Monthly Weather Review (MWR) 
+      - name: Reviewer
+        summary: Journal of the Atmospheric Sciences (JAS), Geophysical Research Letters (GRL), Monthly Weather Review (MWR), Quarterly Journal of the Royal Meteorological Society (QJRMS), Meteorology and Atmospheric Physics (MAAP), EGUsphere
 
     Interests:
       - name: Physics

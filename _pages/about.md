@@ -31,7 +31,7 @@ latest_posts:
 
 I’m Chau-Lam (Chris) Yu, and I’m a research scientist in the Department of Atmospheric and Environmental Sciences at the University at Albany SUNY.
 
-My research focuses on understanding the fundamental dynamics of tropical cyclones (TCs) that can cause significant changes in its intensity and structure, including rapid intensification, TC-shear interaction, secondary eyewall formation, and rainband dynamics. My primary research aims at understanding the rapid intensification process, with a focus on the coupling process between troposphere and boundary layer that leads to the rapid deepening of the storm.
+My research interests cover a wide range of topics related to tropical cyclone (TC), including theory of rapid intensification, air-sea interaction, TC-induced near-inertia waves (NIW) and TC-shear interaction. My research uses a mixture of theory, numerical modelling and machine learning approach to understand the multiscale processes influencing TC intensification. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

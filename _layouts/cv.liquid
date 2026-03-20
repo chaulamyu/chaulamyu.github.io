@@ -166,6 +166,9 @@ layout: default
               {% elsif section_title == 'Languages' %}
                 {% assign entries = section_entries %}
                 {% include cv/languages.liquid %}
+              {% elsif section_title == 'Services' %}
+                {% assign entries = section_entries %}
+                {% include cv/services.liquid %}
               {% elsif section_title == 'Interests' or section_title == 'Academic Interests' %}
                 {% assign entries = section_entries %}
                 {% include cv/interests.liquid %}
@@ -332,6 +335,18 @@ layout: default
             <div>
               {% assign entries = site.data.resume.languages %}
               {% include cv/languages.liquid %}
+            </div>
+          </div>
+        {% endif %}
+
+        <!-- Services -->
+        {% if site.data.resume.services.size > 0 %}
+          <a class="anchor" id="services"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Services</h3>
+            <div>
+              {% assign entries = site.data.resume.services %}
+              {% include cv/services.liquid %}
             </div>
           </div>
         {% endif %}

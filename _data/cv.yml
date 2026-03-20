@@ -135,6 +135,50 @@ cv:
         releaseDate: 2023
         summary: This work examined the cause of the precession hiatus of a set of idealized experiments in the critical shear regime.
 
+      - title: Updraft Maintenance and Axisymmetrization during Secondary Eyewall Formation in a Model Simulation of Hurricane Matthew (2016)
+        authors:
+          - Yu, C. L., Didlake, A.C., Zhang, F. 
+        publisher: J. Atmos. Sci.
+        releaseDate: 2022
+        summary: This work examined updraft triggering and maintenance and the leading edge of cold pool, leading to the onset of SEF
+
+      - title: Asymmetric rainband processes leading to secondary eyewall formation in a model simulation of Hurricane Matthew (2016)
+        authors:
+          - Yu, C. L., Didlake, A.C., Zhang, F., Nystrom, R.G.
+        publisher: J. Atmos. Sci.
+        releaseDate: 2021
+        summary: This work examined wind field broadening in SEF of Hurricane Matthew (2016)
+
+      - title: Investigating axisymmetric and asymmetric signals of secondary eyewall formation using observations-based modeling of the tropical cyclone boundary layer
+        authors:
+          - Yu, C. L., Didlake, A.C., Kepert, J.D., Zhang, F.
+        publisher: JGR-Atmosphere
+        releaseDate: 2021
+
+      - title: Impact of stratiform rainband heating on the tropical cyclone wind field in idealized simulations
+        authors:
+          - Yu, C. L., Didlake, A.C., Kepert
+        publisher: JAS
+        releaseDate: 2019
+
+      - title: The Impact of Assimilation of GPM Microwave Imager Clear-Sky Radiance on Numerical Simulations of Hurricanes Joaquin (2015) and Matthew (2016) with the HWRF Model
+        authors:
+          - Pu, Z., Yu, C.-L., Tallapragada, V., Jin, J., and McCarty, W.
+        publisher: MWR
+        releaseDate: 2019
+  
+      - title: Impact of non-hydrostatic effects and trapped lee waves on mountain wave drag in directionally sheared flow
+        authors:
+          - Yu, C.-L., Teixeira, M.A.C.
+        publisher: QJRMS
+        releaseDate: 2015
+
+      - title: The gravity wave momentum flux in hydrostatic flow with directional shear over elliptical mountains
+        authors:
+          - Teixeira, M.A.C., Yu, C.-L.
+        publisher: European Journal of Mechanics & Fluids B - Fluids
+        releaseDate: 2014
+        
     Languages:
       - name: Cantonese
         summary: "Native speaker"

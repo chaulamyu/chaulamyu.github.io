@@ -82,10 +82,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/templates/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-my-first-single-author-paper-on-the-dynamical-and-thermodynamic-constraints-of-axisymmetric-tropical-cyclones-under-non-symmetric-neutrality-is-accepted",
+            },},{id: "news-my-first-single-author-paper-on-the-dynamical-and-thermodynamic-constraints-of-axisymmetric-tropical-cyclones-under-non-symmetric-neutrality-is-accepted",
           title: 'My first single-author paper “On the Dynamical and Thermodynamic Constraints of Axisymmetric Tropical...',
           description: "",
           section: "News",},{id: "projects-project-1",

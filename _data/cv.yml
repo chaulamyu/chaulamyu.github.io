@@ -18,7 +18,8 @@ cv:
         score: ""
         courses: "The role of asymmetric rainband processes in secondary eyewall formation in tropical cyclones"
         highlights:
-          - Advisor: Dr. Anthony Didlake; Co-advisor: Dr. Fuqing Zhang
+          - Advisor: Dr. Anthony Didlake
+          - Co-advisor: Dr. Fuqing Zhang
 
       - institution: University of Utah
         location: Utah, USA

@@ -18,8 +18,8 @@ cv:
         score: ""
         courses: "The role of asymmetric rainband processes in secondary eyewall formation in tropical cyclones"
         highlights:
-          - Advisor: Dr. Anthony Didlake
-          - Co-advisor: Dr. Fuqing Zhang
+          - "Advisor: Dr. Anthony Didlake"
+          - "Co-advisor: Dr. Fuqing Zhang"
 
       - institution: University of Utah
         location: Utah, USA
@@ -39,7 +39,7 @@ cv:
       - company: Department of Atmospheric and Environmental Sciences
         position: Research Scientist
         location: SUNY Albany, NY, USA
-        start_date: 2023
+        start_date: 2023-12
         end_date: present
 
       - company: Department of Atmospheric and Environmental Sciences
@@ -125,12 +125,6 @@ cv:
         releaseDate: 2023
         summary: This work examined the cause of the precession hiatus of a set of idealized experiments in the critical shear regime.
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
     Languages:
       - name: Cantonese
         summary: "Native speaker"
@@ -141,9 +135,9 @@ cv:
 
     Professional Services:
       - name: Associate Editor
-        summary: Monthly Weather Review (MWR) 
+        summary: "Monthly Weather Review (MWR)"
       - name: Reviewer
-        summary: Journal of the Atmospheric Sciences (JAS), Geophysical Research Letters (GRL), Monthly Weather Review (MWR), Quarterly Journal of the Royal Meteorological Society (QJRMS), Meteorology and Atmospheric Physics (MAAP), EGUsphere
+        summary: "Journal of the Atmospheric Sciences (JAS), Geophysical Research Letters (GRL), Monthly Weather Review (MWR), Quarterly Journal of the Royal Meteorological Society (QJRMS), Meteorology and Atmospheric Physics (MAAP), EGUsphere"
 
     Interests:
       - name: Physics

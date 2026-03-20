@@ -144,8 +144,8 @@ cv:
         summary: "Fluent"
 
     Services:
-      - position: Associate Editor
-        summary: "Monthly Weather Review (MWR)"
-      - position: Reviewer
-        summary: "Journal of the Atmospheric Sciences (JAS), Geophysical Research Letters (GRL), Monthly Weather Review (MWR), Quarterly Journal of the Royal Meteorological Society (QJRMS), Meteorology and Atmospheric Physics (MAAP), EGUsphere"
+      - name: Associate Editor
+        keywords: "Monthly Weather Review (MWR)"
+      - name: Reviewer
+        keywords: "Journal of the Atmospheric Sciences (JAS), Geophysical Research Letters (GRL), Monthly Weather Review (MWR), Quarterly Journal of the Royal Meteorological Society (QJRMS), Meteorology and Atmospheric Physics (MAAP), EGUsphere"
 

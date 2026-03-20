@@ -77,11 +77,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/templates/announcement_2/";
             },},{id: "news-my-first-single-author-paper-on-the-dynamical-and-thermodynamic-constraints-of-axisymmetric-tropical-cyclones-under-non-symmetric-neutrality-is-accepted",
           title: 'My first single-author paper “On the Dynamical and Thermodynamic Constraints of Axisymmetric Tropical...',
           description: "",

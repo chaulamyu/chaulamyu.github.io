@@ -1,50 +1,38 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Chau-Lam Yu
+  label: Research Scientist
+  email: cyu7@albany.edu
+  location: Department of Atmospheric and Environmental Sciences, University at Albany, SUNY
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  summary: My research integrates geophysical fluid dynamics, high-resolution numerical modeling, and machine learning to understand the multiscale processes governing extreme weather, such as tropical cyclones, and air-sea interaction. 
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: The Pennsylvania State University
+        location: Pennsylvania, USA
+        url: https://www.met.psu.edu/
+        area: Atmospheric Sciences
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2017
+        end_date: 2020
         score: ""
-        courses: "Theory of Relativity"
+        courses: "The role of asymmetric rainband processes in secondary eyewall formation in tropical cyclones"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Advisor: Dr. Anthony Didlake; Co-advisor: Dr. Fuqing Zhang
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: University of Utah
+        location: Utah, USA
+        area: Atmospheric Sciences
+        studyType: Master
+        start_date: 2015
+        end_date: 2017
+
+      - institution: University of Reading
+        location: Reading, UK
+        area: Mathematics
+        studyType: Master
+        start_date: 2012
+        end_date: 2013
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
@@ -96,45 +84,76 @@ cv:
           - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Research Internal Award: UAlbany Inventor Recognition for First Invention Disclosures, Patent Applications, and Patents Awarded 
+        date: 2025
+        awarder: UAlbany 
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Student Poster Presentation Award: 34th Conference on Hurricanes and Tropical Meteorology 
+        date: 2020
+        awarder: American Meteorology Society 
+
+      - title: Most Outstanding Postgraduate Student in the Faculty of Science: University of Reading
+        date: 2013
+        awarder: University of Reading
+
+      - title: Professor C D Beling Memorial Prize in Physics: University of Hong Kong
+        date: 2012
+        awarder: The University of Hong Kong
+
+      - title: Dean’s Honors List: The University of Hong Kong
+        date: 2012
+        awarder: The University of Hong Kong
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: On the Dynamical and Thermodynamic Constraints of Axisymmetric Tropical Cyclones under Non-Symmetric-Neutrality
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Yu, C. L.
+        publisher: JAS
+        releaseDate: 2026
+        summary: This research relaxed a nearly four-decade-old assumption in the theory of steady-state maximum intensity of tropical cyclones, called Symmetric Neutrality (SN).
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: A Novel Bias Correction Scheme for the New York State Mesonet Microwave Radiometer Temperature Retrieval
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Yu, C. L., B. Shrestha and Wang J. 
+        publisher: Journal of Atmospheric and Oceanic Technology
+        releaseDate: 2026
+        summary: This research developed a novel bias correction technique for ground-based radiometer temperature retrievals.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Evaluation of the Performance of Probabilistic Precipitation Forecast of PHRaM during 2017-2023 Hurricane Seasons
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Yu, C. L., K. Bachmann, R. Torn., A. Brammer and F. D. Marks 
+        publisher: Wea. Forecasting
+        releaseDate: 2025
+        summary: This research evaluates the performance of ePHRaM in Probabilistic Precipitation Forecast during 2017-2023 Hurricane Seasons
+
+      - title: Characterizing the Impacts of 2024 Total Solar Eclipse Using New York State Mesonet Data
+        authors:
+          - Wang J., A. Dai, C.-L. Yu, N. Bain, D. J. McGuinnes, and B. Shrestha 
+        publisher: Geophy. Res. Letters
+        releaseDate: 2024
+        summary: This work documented the unique NYSM observation during 2024 Total Solar Eclipse 
+
+      - title: Tropical Cyclone Boundary Layer Asymmetries in a Tilt-Following Perspective
+        authors:
+          - Yu, C. L., Tang, B. H., Fovell, R. G. 
+        publisher: J. Atmos. Sci.
+        releaseDate: 2024
+        summary: This work discovers the unique coupling relationship between TC boundary layer asymmetries and vortex tilt for TC in sheared environment.
+
+      - title: Diverging Behaviors of Simulated Tropical Cyclones in Moderate Vertical Wind Shear
+        authors:
+          - Yu, C. L., Tang, B. H., Fovell, R. G. 
+        publisher: J. Atmos. Sci.
+        releaseDate: 2023
+        summary: This work examined the cause of the divergent behaviors in structural and intensity evolution of a set of idealized experiments in the critical shear regime.
+
+      - title: Tropical cyclone tilt and precession in moderate shear: Precession hiatus in a critical shear regime
+        authors:
+          - Yu, C. L., Tang, B. H., Fovell, R. G. 
+        publisher: J. Atmos. Sci.
+        releaseDate: 2023
+        summary: This work examined the cause of the precession hiatus of a set of idealized experiments in the critical shear regime.
+
 
     Skills:
       - name: Physics

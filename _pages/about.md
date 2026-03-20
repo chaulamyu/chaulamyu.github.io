@@ -8,7 +8,7 @@ subtitle: <a href='#'>Affiliations:</a> Department of Atmospheric & Environmenta
 
 profile:
   align: right
-  image: profile5-241x300.jpg
+  image: profile5.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>

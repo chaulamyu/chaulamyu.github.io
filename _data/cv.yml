@@ -140,9 +140,14 @@ cv:
         summary: "Journal of the Atmospheric Sciences (JAS), Geophysical Research Letters (GRL), Monthly Weather Review (MWR), Quarterly Journal of the Royal Meteorological Society (QJRMS), Meteorology and Atmospheric Physics (MAAP), EGUsphere"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Dynamics and theory of Tropical Cyclones (TCs) 
+        keywords: "Rapid intensification of TC, TC-shear interaction"
+      - name: Atmosphere-Ocean interaction 
+        keywords: "Storm-induced near-inertial wave (NIW) response, Parameterization of storm-induced NIW mixing in Ocean General Circulation Models (GOCMs), Atmosphere-ocean feedback"
+      - name: Extreme weather and climate risk assessment 
+        keywords: "Hurricane-induced risk of extreme wind, precipitation, and storm surge"
+      - name: Machine learning and Artificial Intelligence (AI)
+        keywords: "eXplainable AI (XAI) for AI-weather emulators, Physics-informed Machine Learning"
 
     Certificates:
       - name: Machine Learning

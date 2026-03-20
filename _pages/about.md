@@ -8,7 +8,7 @@ subtitle: <a href='#'>Affiliations:</a> Department of Atmospheric & Environmenta
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile5-241x300.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -29,9 +29,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Chau-Lam (Chris) Yu, and I’m a research scientist in the Department of Atmospheric and Environmental Sciences at the University at Albany SUNY.
+I’m Chau-Lam (Chris) Yu, a Research Scientist in the Department of Atmospheric and Environmental Sciences at the University at Albany, SUNY.
 
-My research interests cover a wide range of topics related to tropical cyclone (TC), including theory of rapid intensification, air-sea interaction, TC-induced near-inertia waves (NIW) and TC-shear interaction. My research uses a mixture of theory, numerical modelling and machine learning approach to understand the multiscale processes influencing TC intensification. 
+My research interests cover a wide range of topics related to tropical cyclones (TCs), including theory of rapid intensification, air-sea interaction, TC-induced near-inertia waves (NIW), TC-shear interaction and secondary eyewall formation (SEF). My research uses a combination of fundamental theory, numerical modelling and machine learning approaches to understand the multiscale processes that drive TC intensification. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -34,8 +34,10 @@ A similar physical picture happens for storm-induced Near-Inertial Waves (NIWs) 
 
 In fact, this analoge is not just physically similar, the fundamental equations governing these waves are mathamtically similar as well. Specifically, both these two types of waves can be rigorously formulated using the “Taylor Goldstein equation”. The major difference between these two waves is the inclusion of coriolis parameter $f$ in the horizontal momentum equations.
 $$
-\frac{d^2\hat{w}}{dz^2} + (\frac{N^2 \kappa^2}{(\Omega^2 - f^2)} - \kappa^2)\hat{w} = 0  \text{for NIWs}
+\begin{align*}
+\frac{d^2\hat{w}}{dz^2} + (\frac{N^2 \kappa^2}{(\Omega^2 - f^2)} - \kappa^2)\hat{w} &= 0 \qquad \text{for NIWs, } \\
+\frac{d^2\hat{w}}{dz^2} + (\frac{N^2 \kappa^2}{\Omega^2} - \kappa^2)\hat{w} &= 0 \qquad \text{for Orographic gravity wave, } 
+\end{align*}
 $$
-$$
-\frac{d^2\hat{w}}{dz^2} + (\frac{N^2 \kappa^2}{\Omega^2} - \kappa^2)\hat{w} = 0    \text{for Orographic gravity wave}
-$$
+where $\hat{w}$ is the Fourier spectrum of vertical velocity, $N^2$ is the static stability parameter, $\kappa=|\vec{k}|^2$ is the magnitude of horizontal wave vector $\vec{k}$, $\Omega=\vec{U} \cdot \vec{k}$ with $U$ being the mean wind velocity.
+

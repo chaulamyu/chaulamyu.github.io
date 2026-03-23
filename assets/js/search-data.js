@@ -38,9 +38,9 @@ ninja.data = [{
             },},{id: "news-my-first-single-author-paper-on-the-dynamical-and-thermodynamic-constraints-of-axisymmetric-tropical-cyclones-under-non-symmetric-neutrality-is-accepted",
           title: 'My first single-author paper “On the Dynamical and Thermodynamic Constraints of Axisymmetric Tropical...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-on-the-surprising-connection-between-mountain-waves-and-storm-induced-near-inertial-waves-niws",
+          title: 'On the Surprising Connection between Mountain Waves and Storm-induced Near-Inertial Waves (NIWs)',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",

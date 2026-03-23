@@ -44,3 +44,13 @@ where $\hat{w}$ is the Fourier spectrum of vertical velocity, $N^2$ is the stati
 {% comment %}
  Below are more comparisons of observed waves versus solution resolves using the Taylor Goldstein equation.
 {% end comment %}
+Below are more comparisons of observed waves versus solution resolves using the Taylor Goldstein equation:
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mountain_wave_compare.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Comparison of Taylor Goldstein solution and numerical model simulation of a sheared flow over an isolated mountain. From Yu and Teixeira (2014).
+</div>
+

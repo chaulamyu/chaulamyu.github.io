@@ -51,7 +51,7 @@ Below are more comparisons of observed waves versus solution resolves using the 
     </div>
 </div>
 <div class="caption">
-    Comparison of Taylor Goldstein solution and numerical model simulation of a sheared flow over an isolated mountain. From Yu and Teixeira (2014).
+    Comparison of Taylor Goldstein solution and numerical model simulation of a sheared flow over an isolated mountain. Differences are mainly due to the presence of diffusion in the numerical model. From Yu and Teixeira (2014).
 </div>
 
 <div class="row">
@@ -60,7 +60,7 @@ Below are more comparisons of observed waves versus solution resolves using the 
     </div>
 </div>
 <div class="caption">
-    Comparison of Taylor Goldstein solution and numerical model simulation of NIW vertical velocity at z = -390 m, forced by an idealized hurricane wind stress. 
+    Comparison of Taylor Goldstein solution and numerical model simulation of NIW vertical velocity at z = -390 m, forced by an idealized hurricane wind stress. Differences are mainly due to the structural differences in the wind stress between the numerical simulation and diagnostic analysis, as well as the presence of diffusion in the 3DPWP model.
 </div>
 
 

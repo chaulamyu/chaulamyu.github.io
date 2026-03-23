@@ -54,4 +54,13 @@ Below are more comparisons of observed waves versus solution resolves using the 
     Comparison of Taylor Goldstein solution and numerical model simulation of a sheared flow over an isolated mountain. From Yu and Teixeira (2014).
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/NIW_comparison.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Comparison of Taylor Goldstein solution and numerical model simulation of NIW vertical velocity at z = -390 m, forced by an idealized hurricane wind stress. 
+</div>
+
 

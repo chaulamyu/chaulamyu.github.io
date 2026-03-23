@@ -54,3 +54,4 @@ Below are more comparisons of observed waves versus solution resolves using the 
     Comparison of Taylor Goldstein solution and numerical model simulation of a sheared flow over an isolated mountain. From Yu and Teixeira (2014).
 </div>
 
+

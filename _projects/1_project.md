@@ -43,7 +43,7 @@ $$
 where $\hat{w}$ is the Fourier spectrum of vertical velocity, $N^2$ is the static stability parameter, $\kappa=|\vec{k}|^2$ is the magnitude of horizontal wave vector $\vec{k}$, $\Omega=\vec{U} \cdot \vec{k}$ with $\vec{U}$ being the mean wind velocity.
 {% comment %}
  Below are more comparisons of observed waves versus solution resolves using the Taylor Goldstein equation.
-{% end comment %}
+{% endcomment %}
 Below are more comparisons of observed waves versus solution resolves using the Taylor Goldstein equation:
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -43,6 +43,16 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-on-the-relaxation-of-symmetric-neutrality-of-the-potential-intensity-theory-of-tc",
+          title: 'On the relaxation of Symmetric Neutrality of the Potential Intensity Theory of TC...',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-is-machine-learning-based-adjoint-accurately-representing-the-true-adjoint-of-the-underlying-dynamical-system",
+          title: 'Is Machine Learning-based adjoint accurately representing the true adjoint of the underlying dynamical...',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
